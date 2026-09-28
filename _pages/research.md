@@ -25,9 +25,9 @@ Advisor: Dan Altman · Committee: Louis-Alexander Berg, William Long
 
 ## Working Papers
 
-- Buran, Botan and Saban Kardas. "Revisiting the Saudi Reaction to the 'Iranian Threat': A Case of Overbalancing?" (manuscript)
+- Kardas, Saban and Botan Buran. "Revisiting the Saudi Reaction to the 'Iranian Threat': A Case of Overbalancing?" (draft available at request)
 
-- Buran, Botan and Saban Kardas. "Threat and Underbalancing: Analysis of Turkey's Iran Policy during the Ahmadinejad Era." (manuscript)
+- Kardas, Saban and Botan Buran. "Threat and Underbalancing: Analysis of Turkey's Iran Policy during the Ahmadinejad Era." (draft available at request)
 
 ## Works in Progress
 
