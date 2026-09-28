@@ -23,7 +23,7 @@ repository               : "BotanBuran/botanburan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Botan Buran"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate at Georgia State University"
@@ -64,9 +64,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "https://www.instagram.com/botanburan/"
+  instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/botan-buran-2b4212167/"
+  linkedin         : "botan-buran-2b4212167/?locale=en"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -74,7 +74,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "https://x.com/BotanBuran"
+  twitter          : "BotanBuran"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
