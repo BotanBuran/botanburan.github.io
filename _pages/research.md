@@ -10,7 +10,14 @@ author_profile: true
 ## Dissertation
 
 **The Myth of Regional Balance of Power**  
+
 Advisor: Dan Altman · Committee: Louis-Alexander Berg, William Long
+
+-Buran, Botan. “The Myth of Regional Balance of Power.” (article from dissertation, in progress)
+
+-Buran, Botan. “The Myth of Regional Hegemony.” (article from dissertation, in progress)
+
+-Buran, Botan. “The Myth of Regional Balance of Power.” (book project from dissertation, in progress)
 
 ## Working Papers
 
