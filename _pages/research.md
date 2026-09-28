@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+## Research Interests
+
+International security, alignments, regional security, regional balancing, Middle Eastern politics, interstate conflicts, alliance reliability, 
+
 ## Dissertation
 
 **The Myth of Regional Balance of Power**  
