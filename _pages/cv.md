@@ -11,4 +11,4 @@ redirect_from:
 
 [Download my CV (PDF)]({{ base_path }}/files/CV.pdf){: .btn .btn--primary}
 
-<iframe src="{{ base_path }}/files/CV.pdf" width="100%" height="900px" style="border: none;" title="Botan Buran CV 2026 October.docx"></iframe>
+<iframe src="{{ base_path }}/files/CV.pdf" width="100%" height="900px" style="border: none;" title="Botan Buran CV"></iframe>
